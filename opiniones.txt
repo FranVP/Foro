@@ -1,20 +1,10 @@
-Nombre del visitante: Francisco Jose
-E-Mail del visitante: fran_villarreal119@hotmail.com
+Titulo: Comunio
+Autor: Fran
 Comentario:
-<b>hola</b>
+<b>app</b>
 <hr>
-Nombre del visitante: Francisco Jose
-E-Mail del visitante: fran_villarreal119@hotmail.com
+Titulo: Ropa
+Autor: Francisco
 Comentario:
-<b>hola1</b>
-<hr>
-Nombre del visitante: Francisco Jose
-E-Mail del visitante: fran_villarreal119@hotmail.com
-Comentario:
-<b>hola2</b>
-<hr>
-Nombre del visitante: Francisco Jose
-E-Mail del visitante: fran_villarreal119@hotmail.com
-Comentario:
-<b>hola4</b>
+<b>aaaa</b>
 <hr>
