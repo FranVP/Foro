@@ -17,11 +17,10 @@
     fputs ($archivo,"\n");
     fclose ($archivo); // Cierro el archivo
 
-    echo "<h1><b>Gracias!</b> por el comentario
-$_POST[autor] </h1><br>";
-    echo "<a href='index.php'>Regresar a la pagina principal</a>"; // Finalizamos la consulta php.
+    echo "<h1><b>Gracias!</b> por el comentario $_POST[autor] </h1><br>";
+    echo "<a href='index.php'>Regresar a la pagina principal</a>";
     ?>
-    <a href="pagina.php">aqui para ver tu comentario</a>
+    <a href="index.php">aqui para ver tu comentario</a>
     </head>
     </body>
 </html>
